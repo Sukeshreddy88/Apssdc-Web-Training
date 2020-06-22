@@ -3,8 +3,8 @@ Web Development Training Using React
 
 # Day -1
 
-**For Bold**
+**Git and Github**
 
-*For italic**
+*How to create a new repository **
 
-***Both italic and bold***
+***Git Explanation***
